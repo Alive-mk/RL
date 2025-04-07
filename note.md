@@ -39,3 +39,5 @@ when we treat the terminal state as a normal state and the reward received at th
 >
 > <img src="pictures\image-20250406231419527.png" alt="image-20250406231419527" style="zoom:67%;" />
 
+# 2. **Chapter 2 State Values and Bellman Equation**
+
