@@ -32,6 +32,10 @@ stochastic dynamical systems,
 when we treat the terminal state as a normal state and the reward received at the terminal state is positive, a discount rate must be used to calculate the discounted return to avoid divergence.
 
 <img src="pictures\image-20250407110305445.png" alt="image-20250407110305445" style="zoom:67%;" />
+$$
+给定当前的状态s_t和动作a_t,下一个状态s_{t+1}和奖励r_{t+1}的概率分布，与过去的所有状态和动作
+s_{t-1},a_{t-1},\ldots,s_0,a_0都无关。
+$$
 
 > The answer is that, once the policy in an `MDP` is fixed, the `MDP` degenerates into an `MP`.
 >
@@ -40,4 +44,6 @@ when we treat the terminal state as a normal state and the reward received at th
 > <img src="pictures\image-20250406231419527.png" alt="image-20250406231419527" style="zoom:67%;" />
 
 # 2. **Chapter 2 State Values and Bellman Equation**
+
+
 
