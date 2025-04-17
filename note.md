@@ -47,7 +47,9 @@ $$
 
 ```json
 in a nutshell,inequality,aforementioned,comply with,bootstrapping,compactly,identity martix,appropriate,
-invertible,
+invertible,notation,constitute,for the sake of simplicity,derivation,substitute,literature,solely,
+matrix-vector,elementwise,concisely,nonnegative,convergence,illustrative,rigorous,block diagonal matrix,
+
 ```
 
 - bootstrapping--自举
@@ -55,4 +57,28 @@ invertible,
 
   <img src="pictures\image-20250414170726117.png" alt="image-20250414170726117" style="zoom:67%;" />
 
+- Bellman equation
+  <img src="pictures\image-20250417103919104.png" alt="image-20250417103919104" style="zoom:67%;" />
+
+  <img src="pictures\image-20250417110415939.png" alt="image-20250417110415939" style="zoom:80%;" />
+
+- the low of total probability
+  <img src="pictures\image-20250417104339286.png" alt="image-20250417104339286" style="zoom:80%;" />
+
+- closed-form solution
+  <img src="pictures\image-20250417110646817.png" alt="image-20250417110646817" style="zoom: 67%;" />
+
+- iterative solution
   
+
+<img src="pictures\image-20250417110902388.png" alt="image-20250417110902388" style="zoom:67%;" />
+
+- action value
+  <img src="pictures\image-20250417112047120.png" alt="image-20250417112047120" style="zoom:67%;" />
+  <img src="pictures\image-20250417112114204.png" alt="image-20250417112114204" style="zoom:67%;" />
+- 
+
+> we know that different policies may have the same state values.
+>
+> 
+
