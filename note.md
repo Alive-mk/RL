@@ -49,7 +49,7 @@ $$
 in a nutshell,inequality,aforementioned,comply with,bootstrapping,compactly,identity martix,appropriate,
 invertible,notation,constitute,for the sake of simplicity,derivation,substitute,literature,solely,
 matrix-vector,elementwise,concisely,nonnegative,convergence,illustrative,rigorous,block diagonal matrix,
-
+discrete,yield,
 ```
 
 - bootstrapping--自举
@@ -80,5 +80,5 @@ matrix-vector,elementwise,concisely,nonnegative,convergence,illustrative,rigorou
 
 > we know that different policies may have the same state values.
 >
-> 
+> <img src="pictures\image-20250417142827916.png" alt="image-20250417142827916" style="zoom: 67%;" />
 
