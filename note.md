@@ -46,8 +46,13 @@ $$
 # 2. **Chapter 2 State Values and Bellman Equation**
 
 ```json
-in a nutshell,inequality,aforementioned,comply with,bootstrapping
+in a nutshell,inequality,aforementioned,comply with,bootstrapping,compactly,identity martix,appropriate,
+invertible,
 ```
 
 - bootstrapping--自举
   **Bootstrapping** 是指在强化学习算法中，利用当前的估计值（例如状态值或动作值）来更新自己的估计。这种方法通过借助已有的信息来逐步改进估计，而不是依赖于完全的现实反馈。
+
+  <img src="pictures\image-20250414170726117.png" alt="image-20250414170726117" style="zoom:67%;" />
+
+  
